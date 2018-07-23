@@ -1,0 +1,36 @@
+<resources>
+
+    <!-- Login view-->
+    <string name="login_label_username">Käyttäjätunnus</string>
+    <string name="login_label_password">Salasana</string>
+    <string name="login_action_sign_in">Kirjaudu</string>
+    <string name="login_error_login_failure">Kirjautuminen epäonnistui</string>
+
+    <string name="login_header">Kirjaudu omalla käyttäjätunnuksella</string>
+    <string name="login_lost_credentials">Tunnukset hukassa?</string>
+
+    <string name="login_subheader">Sama tunnus käy muihin palveluihin.</string>
+    <string name="login_new_user">Luo tunnus</string>
+    <string name="login_remember_me">Muista minut</string>
+
+	<!-- Onboarding view-->
+    <string name="onboarding_previous_text">Edellinen</string>
+    <string name="onboarding_next_text">Seuraava</string>
+    <string name="onboarding_complete_text">Ota käyttöön</string>
+
+    <string name="onboarding_step_archive_text">Arkistoit ja haet helposti vanhoista laskuista ja kirjeistä seitsemän vuoden ajan.</string>
+
+    <string name="onboarding_step_invoice_text">Maksat laskusi ajoissa ilman turhaa näpyttelyä.</string>
+    <string name="onboarding_step_invoice_footer_text">Toistaiseksi maksaminen onnistuu vain Pallo-sovellusta käyttäen.</string>
+
+    <string name="onboarding_step_taskuposti_text">Seuraat lähetystesi tilannetta ja muistat hakea ne ajoissa.</string>
+
+    <string name="onboarding_step_welcome_text">Ota käyttöön uusi postilaatikko, jolla hallitset laskuja, kirjeitä ja paketteja mobiilissa.</string>
+    <string name="onboarding_step_welcome_text_stripped_version">Ota käyttöön uusi postilaatikko, jolla hallitset laskuja ja kirjeitä mobiilissa.</string>
+    <string name="onboarding_step_welcome_footer_text">Lisätietoa</string>
+
+    <string name="onboarding_step_welcome_language_fi" translatable="false">Suomeksi</string>
+    <string name="onboarding_step_welcome_language_sv" translatable="false">På Svenska</string>
+    <string name="onboarding_step_welcome_language_en" translatable="false">In English</string>
+
+</resources>
