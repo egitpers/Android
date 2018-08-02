@@ -3,7 +3,7 @@
     <!-- Login view-->
     <string name="login_label_username">Käyttäjätunnus</string>
     <string name="login_label_password">Salasana</string>
-    <string name="login_action_sign_in">Kirjaudu</string>
+    <string name="login_action_sign_in">Kirjaudu</string> <!-- See screenshot-->
     <string name="login_error_login_failure">Kirjautuminen epäonnistui</string>
 
     <string name="login_header">Kirjaudu omalla käyttäjätunnuksella</string>
