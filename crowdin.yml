@@ -1,4 +1,3 @@
 files:
-  - source: app/src/main/res/values-fi/strings.xml
-    translation: app/src/main/res/values-en/strings.xml
-    translation: app/src/main/res/values-sv/strings.xml
+  - source: /app/src/main/res/values-fi/strings.xml
+    translation: /app/src/main/res/values-%two_letters_code%/strings.xml
