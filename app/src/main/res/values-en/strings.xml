@@ -17,11 +17,11 @@
   <string name="onboarding_previous_text">Back</string>
   <string name="onboarding_next_text">Next</string>
   <string name="onboarding_complete_text">Start using</string>
-  <string name="onboarding_step_archive_text">Arkistoit ja haet helposti vanhoista laskuista ja kirjeistä seitsemän vuoden ajan.</string>
-  <string name="onboarding_step_invoice_text">Maksat laskusi ajoissa ilman turhaa näpyttelyä.</string>
-  <string name="onboarding_step_invoice_footer_text">Toistaiseksi maksaminen onnistuu vain Pallo-sovellusta käyttäen.</string>
-  <string name="onboarding_step_taskuposti_text">Seuraat lähetystesi tilannetta ja muistat hakea ne ajoissa.</string>
-  <string name="onboarding_step_welcome_text">Ota käyttöön uusi postilaatikko, jolla hallitset laskuja, kirjeitä ja paketteja mobiilissa.</string>
+  <string name="onboarding_step_archive_text">Archive and retrieve easily old invoices and letters for a period of seven years.</string>
+  <string name="onboarding_step_invoice_text">Pay your bills on time without unnecessary tapping.</string>
+  <string name="onboarding_step_invoice_footer_text">For the time being, the payment is possible only with the Pallo app.</string>
+  <string name="onboarding_step_taskuposti_text">Track your parcels and remember to fetch them on time.</string>
+  <string name="onboarding_step_welcome_text">Use the new mail box, in which you manage your bills, letters and parcels on your mobile.</string>
   <string name="onboarding_step_welcome_text_stripped_version">Ota käyttöön uusi postilaatikko, jolla hallitset laskuja ja kirjeitä mobiilissa.</string>
   <string name="onboarding_step_welcome_footer_text">Lisätietoa</string>
 </resources>
