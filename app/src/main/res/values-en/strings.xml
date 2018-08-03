@@ -6,17 +6,17 @@
   <string name="login_label_password">Password</string>
   <string name="login_action_sign_in">Login</string>
   <!-- See screenshot-->
-  <string name="login_error_login_failure">Kirjautuminen epäonnistui</string>
-  <string name="login_header">Kirjaudu omalla käyttäjätunnuksella</string>
-  <string name="login_lost_credentials">Tunnukset hukassa?</string>
-  <string name="login_subheader">Sama tunnus käy muihin palveluihin.</string>
-  <string name="login_new_user">Luo tunnus</string>
+  <string name="login_error_login_failure">Login failed</string>
+  <string name="login_header">Login with your username</string>
+  <string name="login_lost_credentials">Have you lost your credentials?</string>
+  <string name="login_subheader">The same user name can be used for other services.</string>
+  <string name="login_new_user">Create an account</string>
   <!-- For translators: use the Glossary! -->
-  <string name="login_remember_me">Muista minut</string>
+  <string name="login_remember_me">Remember me</string>
   <!-- Onboarding view-->
-  <string name="onboarding_previous_text">Edellinen</string>
-  <string name="onboarding_next_text">Seuraava</string>
-  <string name="onboarding_complete_text">Ota käyttöön</string>
+  <string name="onboarding_previous_text">Back</string>
+  <string name="onboarding_next_text">Next</string>
+  <string name="onboarding_complete_text">Start using</string>
   <string name="onboarding_step_archive_text">Arkistoit ja haet helposti vanhoista laskuista ja kirjeistä seitsemän vuoden ajan.</string>
   <string name="onboarding_step_invoice_text">Maksat laskusi ajoissa ilman turhaa näpyttelyä.</string>
   <string name="onboarding_step_invoice_footer_text">Toistaiseksi maksaminen onnistuu vain Pallo-sovellusta käyttäen.</string>
