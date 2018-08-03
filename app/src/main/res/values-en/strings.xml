@@ -22,6 +22,6 @@
   <string name="onboarding_step_invoice_footer_text">For the time being, the payment is possible only with the Pallo app.</string>
   <string name="onboarding_step_taskuposti_text">Track your parcels and remember to fetch them on time.</string>
   <string name="onboarding_step_welcome_text">Use the new mail box, in which you manage your bills, letters and parcels on your mobile.</string>
-  <string name="onboarding_step_welcome_text_stripped_version">Ota käyttöön uusi postilaatikko, jolla hallitset laskuja ja kirjeitä mobiilissa.</string>
-  <string name="onboarding_step_welcome_footer_text">Lisätietoa</string>
+  <string name="onboarding_step_welcome_text_stripped_version">Use the new mail box, in which you manage your bills and letters on your mobile.</string>
+  <string name="onboarding_step_welcome_footer_text">Further information</string>
 </resources>
