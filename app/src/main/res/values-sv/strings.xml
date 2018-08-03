@@ -11,6 +11,7 @@
   <string name="login_lost_credentials">Tunnukset hukassa?</string>
   <string name="login_subheader">Sama tunnus käy muihin palveluihin.</string>
   <string name="login_new_user">Luo tunnus</string>
+  <!-- For translators: use the Glossary! -->
   <string name="login_remember_me">Muista minut</string>
   <!-- Onboarding view-->
   <string name="onboarding_previous_text">Edellinen</string>
